@@ -5,5 +5,5 @@
 
 ##### Описание
 Было проведено 2 функциональных тест кейса
-**App url**: [Lidskae]([https://markformelle.by/](https://lidskae.by/))  
+**App url**: [Lidskae](https://lidskae.by/)  
 **Результат**: *Все тесты пройдены*  
